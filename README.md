@@ -58,9 +58,11 @@
 
 <h2>Seasonal Menu</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=04mHuang&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=04mHuang&layout=compact&theme=radical)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&count_private=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04mHuang&theme=maroongold&hide_border=false">
+</p>
 
 <!--
 **04mHuang/04mhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
