@@ -56,9 +56,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 <h2>Seasonal Menu</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="450">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=04mHuang&theme=maroongold&hide_border=false" alt="GitHub Streak" width="450">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" width="450">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" height="140">
+  <img src="https://github-readme-stats.vercel.app/api?username=04mHuang&theme=maroongold&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="140">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04mHuang&theme=maroongold&hide_border=false" alt="GitHub Streak" height="140">
+</p>
 
 
 <!--
