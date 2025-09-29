@@ -1,6 +1,11 @@
 <h1 align="center">ᴍɪᴄʜᴇʟʟᴇ~ʜᴜᴀɴɢ</h1>
 
 <p align="center">"Welcome in! What would you like to order?"</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/michelle-huang-m050504h">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <h2>Owner's Note</h2>
 <p>
@@ -52,6 +57,9 @@
 
 
 <h2>Seasonal Menu</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=04mHuang&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=04mHuang&layout=compact&theme=radical)  
 
 
 <!--
